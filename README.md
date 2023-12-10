@@ -5,6 +5,17 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmuda-14&label=Profile%20views&color=0e75b6&style=flat" alt="mahmuda-14" /> </p>
 
 
+###
+
+<h3 align="left">🔥 My Stats </h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmuda-14&theme=lightgray&hide_border=false&background=FFFFFF&ring=DD2476&border=DD2476&border_radius=5" height="220" alt="streak graph"  />
+</div>
+
+
 - 🌱 I’m currently learning **Next.js,MongoDB**
 
 - 💬 Ask me about **React,node.js**
@@ -23,26 +34,13 @@ In a journey of becoming a software engineer..Now diving into the world of  MERN
 - 💻 HTML, CSS, JavaScript
 - 🔧 Git, GitHub
 
-🌱 **Learning Journey:**
-I'm on a continuous learning path, striving to enhance my coding skills and stay updated with the latest technologies. As I immerse myself in the world of the MERN stack, I'm excited about the possibilities it offers for creating dynamic and scalable applications.Beyond web development, I enjoy participating in coding contests.The thrill of problem-solving and the opportunity to learn from a diverse range of problems fuels my passion for coding.
-
 📚 **Currently:**
 I'm actively engaged in growing my skills, working on projects, and exploring new avenues within the vast field of software development. Whether it's debugging a challenging piece of code or diving into a new technology, I embrace each learning opportunity with zeal.
 
 Let's connect and share our coding journeys! Feel free to reach out for collaborations, discussions, or just to geek out about tech. 🌟
 
 
-
-
-###
-
-<h3 align="left">🔥 My Stats </h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmuda-14&theme=lightgray&hide_border=false&background=FFFFFF&ring=DD2476&border=DD2476&border_radius=5" height="220" alt="streak graph"  />
-</div>
+<h3 align="left">Summary of my profile </h3>
 
 <div align="center">
   
