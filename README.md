@@ -21,8 +21,7 @@
 ###
 
 <div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmuda-14&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmuda-14&theme=lightgray&hide_border=false&background=FFFFFF&ring=DD2476&border=DD2476&border_radius=5" height="220" alt="streak graph"  />
 </div>
 
 ###
