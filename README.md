@@ -1,10 +1,8 @@
-<div align="center">
-   <img height="400" width="100%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />   
+<div align="center">   
+   <img height="400" width="100%" src="https://github.com/Mahmuda-14/Resource/blob/main/Video/H.gif" />   
 </div>
 
-<h1 align="center">Hi 👋, I'm Mahmuda</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmuda-14&label=Profile%20views&color=0e75b6&style=flat" alt="mahmuda-14" /> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmuda-14&label=Profile%20views&color=0e75b6&style=flat" alt="mahmuda-14" /> </p>
 
 
 - 🌱 I’m currently learning **Next.js,MongoDB**
@@ -13,15 +11,12 @@
 
 - 📫 How to reach me **mahmudaiiuc14@gmail.com**
 
-  
 
-
-###
 
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats </h3>
 
 ###
 
