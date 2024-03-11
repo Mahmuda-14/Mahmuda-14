@@ -16,7 +16,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **Next.js,MongoDB**
+- 🌱 I’m currently learning **Next.js,Mongoose**
 
 - 💬 Ask me about **React,node.js**
 
