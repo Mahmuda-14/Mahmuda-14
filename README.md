@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Next.js,Mongoose**
 
-- 💬 Ask me about **React,node.js**
+- 💬 Ask me about **React,Javascript**
 
 - 📫 How to reach me **mahmudaiiuc14@gmail.com**
 
