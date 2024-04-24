@@ -35,7 +35,7 @@ In a journey of becoming a software engineer..Now diving into the world of  MERN
 - 🔧 Git, GitHub
 
 📚 **Currently:**
-I'm actively engaged in growing my skills, working on projects, and exploring new avenues within the vast field of software development. Whether it's debugging a challenging piece of code or diving into a new technology, I embrace each learning opportunity with zeal.
+I'm actively engaged in growing my skills, working on projects, and exploring new avenues within the vast field of software development. Whether it's debugging a challenging piece of code or diving into a new technology, I embrace each learning opportunity with zeal...
 
 Let's connect and share our coding journeys! Feel free to reach out for collaborations, discussions, or just to geek out about tech. 🌟
 
